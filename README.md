@@ -95,7 +95,3 @@ If you use the broadcast extension for screen sharing, make sure the `BroadcastE
 - The app template in [jarvis/README.md](jarvis/README.md) contains LiveKit-specific Swift client guidance.
 - The agent is intentionally short-form and conversational by default.
 - When a prompt needs fresh data, the agent attempts a live web search before replying.
-
-## License
-
-No license file is included in this repository yet. Add one if you plan to share or distribute the project.
